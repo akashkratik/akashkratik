@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://hit.yhype.me/github/profile?user_id=72812124)
 
 <!---
 akashkratik/akashkratik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
