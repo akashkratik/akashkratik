@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Srivastava
 - 🌱 I’m currently learning Android App Development
-- 📫 How to reach me LinkedIn -> [Akash Srivastava](www.linkedin.com/in/akash-srivastava-10627a164)
+- 📫 How to reach me: LinkedIn -> [Akash Srivastava](https://www.linkedin.com/in/akash-srivastava-10627a164)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=72812124)
