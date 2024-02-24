@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Srivastava
-- 🌱 I’m currently learning Android App Development
+- 🌱 I work on React, Spring Boot and AWS.
 - 📫 How to reach me: LinkedIn -> [Akash Srivastava](https://www.linkedin.com/in/akash-srivastava-10627a164)
 
 
