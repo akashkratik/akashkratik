@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akash Srivastava
-- 🌱 I work on React, Spring Boot and AWS.
+- 🧑‍💻 I'm a Software Engineer in SAP Labs.
+- 🌱 I have around 5 years of experience in Software Development, working on React.js, Spring Boot and AWS.
 - 📫 How to reach me: LinkedIn -> [Akash Srivastava](https://www.linkedin.com/in/akash-srivastava-10627a164)
 
 
